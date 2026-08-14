@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,5e0b15,000000&height=250&section=header&text=Olá!%20Eu%20sou%20o%20Gustavo&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0101&height=250&section=header&text=Olá!%20Eu%20sou%20o%20Gustavo&fontSize=60&fontColor=FF4D4D&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" />
   
   <br/>
   
@@ -40,24 +40,14 @@
 
 <br/>
 
----
 
-### 🏆 Conquistas no GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gustavolno&theme=blood&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-
-<br/>
-
----
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavolno&show_icons=true&hide_border=true&bg_color=0A0101&title_color=FF4D4D&text_color=E0E0E0&icon_color=FF4D4D" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavolno&show_icons=true&hide_border=true&bg_color=0A0101&title_color=FF4D4D&text_color=E0E0E0&icon_color=FF4D4D" />
   <img width="15" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolno&layout=compact&langs_count=6&hide_border=true&bg_color=0A0101&title_color=FF4D4D&text_color=E0E0E0" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolno&layout=compact&langs_count=6&hide_border=true&bg_color=0A0101&title_color=FF4D4D&text_color=E0E0E0" />
 </div>
 
 <br/>
