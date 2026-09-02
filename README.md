@@ -21,16 +21,16 @@
 
 ---
 
-### 🔥 Sobre Mim
+### Sobre Mim
 
-- 💼 Atualmente atuando no escritório de advocacia **Aldrigues Cândido**, desenvolvendo automações avançadas para otimizar as operações e processos internos do escritório.
-- 🔭 Experiência de destaque na **SEMOB**, onde atuei na construção do projeto **SiSMOB**, uma plataforma completa com múltiplos módulos integrados envolvendo a secretaria e sistemas de apoio aos servidores.
-- 🌱 Especializando-se e trabalhando ativamente com **JavaScript, React, TailwindCSS, Python e Dart**.
-- ⚡ Focado em construir ferramentas que geram impacto real, com foco em usabilidade, interfaces modernas e alta performance.
+-  Atualmente atuando no escritório de advocacia **Aldrigues Cândido**, desenvolvendo automações avançadas para otimizar as operações e processos internos do escritório.
+-  Experiência de destaque na **SEMOB**, onde atuei na construção do projeto **SiSMOB**, uma plataforma completa com múltiplos módulos integrados envolvendo a secretaria e sistemas de apoio aos servidores.
+-  Especializando-se e trabalhando ativamente com **JavaScript, React, TailwindCSS, Python e Dart**.
+-  Focado em construir ferramentas que geram impacto real, com foco em usabilidade, interfaces modernas e alta performance.
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -42,7 +42,7 @@
 
 
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavolno&show_icons=true&hide_border=true&bg_color=0A0101&title_color=FF4D4D&text_color=E0E0E0&icon_color=FF4D4D" />
