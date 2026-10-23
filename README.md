@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0101&height=200&section=header&text=Gustavo%20Lino&fontSize=56&fontColor=FF4D4D&fontAlignY=40&desc=Full-stack%20%C2%B7%20Automa%C3%A7%C3%B5es%20%C2%B7%20Distrito%20Federal&descSize=18&descColor=E0E0E0&descAlignY=62" alt="Gustavo Lino, desenvolvedor full-stack e de automações" />
+  <img src="https://raw.githubusercontent.com/gustavolno/gustavolno/main/banner.svg" width="100%" alt="Gustavo Lino, desenvolvedor full-stack e de automações, Distrito Federal" />
 
   <p><b>Aberto a vagas CLT, remotas ou híbridas.</b></p>
 
