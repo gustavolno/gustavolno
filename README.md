@@ -1,65 +1,41 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0101&height=250&section=header&text=Olá!%20Eu%20sou%20o%20Gustavo&fontSize=60&fontColor=FF4D4D&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" />
-  
-  <br/>
-  
-  <a href="https://github.com/gustavolno">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack;Especialista+em+Automações;Python,+Dart,+React,+JS" alt="Typing SVG" />
-  </a>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0101&height=200&section=header&text=Gustavo%20Lino&fontSize=56&fontColor=FF4D4D&fontAlignY=40&desc=Full-stack%20%C2%B7%20Automa%C3%A7%C3%B5es%20%C2%B7%20Distrito%20Federal&descSize=18&descColor=E0E0E0&descAlignY=62" alt="Gustavo Lino, desenvolvedor full-stack e de automações" />
 
-<div align="center">
-  <a href="https://steady-belekoy-805ebd.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Meu_Portfólio-5e0b15?style=for-the-badge&logo=Web&logoColor=white" alt="Portfólio">
-  </a>
-  <a href="mailto:gustavolinomil@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
+  <p><b>Aberto a vagas CLT, remotas ou híbridas.</b></p>
 
-<br/>
+  <a href="https://gustavolino.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-5e0b15?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+  <a href="mailto:gustavolinomil@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</div>
 
 ---
 
-### Sobre Mim
+### Sobre mim
 
--  Atualmente atuando no escritório de advocacia **Aldrigues Cândido**, desenvolvendo automações avançadas para otimizar as operações e processos internos do escritório.
--  Experiência de destaque na **SEMOB**, onde atuei na construção do projeto **SiSMOB**, uma plataforma completa com múltiplos módulos integrados envolvendo a secretaria e sistemas de apoio aos servidores.
--  Especializando-se e trabalhando ativamente com **JavaScript, React, TailwindCSS, Python e Dart**.
--  Focado em construir ferramentas que geram impacto real, com foco em usabilidade, interfaces modernas e alta performance.
+Transformo rotinas manuais em sistemas que funcionam todo dia.
 
----
+- **Hoje:** no escritório de advocacia **Aldrigues Cândido**, automatizo a cobrança e os acordos: geração de termos, baixa e envio de boletos, conciliação de pagamentos e uma central web usada por 8 pessoas.
+- **Antes:** na **SEMOB-DF**, participei do **SiSMOB**, plataforma com vários módulos para a secretaria e os servidores, com APIs em NestJS e um pipeline de RAG.
+- **Foco:** ferramentas que gerem resultado real, com boa usabilidade, interface limpa e bom desempenho.
 
-### Tecnologias e Ferramentas
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,python,dart,html,css,git&theme=dark" alt="Habilidades" />
-  </a>
-</div>
-
-<br/>
-
-
-
-### Estatísticas do GitHub
+### Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavolno&show_icons=true&hide_border=true&bg_color=0A0101&title_color=FF4D4D&text_color=E0E0E0&icon_color=FF4D4D" />
-  <img width="15" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolno&layout=compact&langs_count=6&hide_border=true&bg_color=0A0101&title_color=FF4D4D&text_color=E0E0E0" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,react,tailwind,dart,sqlite,git&theme=dark" alt="Python, FastAPI, JavaScript, React, Tailwind, Dart, SQLite, Git" />
 </div>
 
-<br/>
+**Principal:** Python (FastAPI), JavaScript/React, SQL, Dart.
+**Também já usei:** TailwindCSS, NestJS, Qlik Sense, automação de navegador e OCR.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavolno&hide_border=true&background=0A0101&ring=FF4D4D&fire=FF4D4D&currStreakNum=E0E0E0&currStreakLabel=FF4D4D&sideNums=E0E0E0&sideLabels=FF4D4D&dates=E0E0E0" alt="GitHub Streak" />
-</div>
+### Projetos
 
-<br/>
+| Projeto | O que é | Tecnologias |
+|---|---|---|
+| [finance-flow](https://github.com/gustavolno/finance-flow) | App de finanças pessoais: categorias de gasto, fluxo de caixa e orçamento | JavaScript, React |
+| [fleet-master](https://github.com/gustavolno/fleet-master) | Gestão de frota com painel de manutenção, motoristas e rotas | JavaScript |
+| [rebuyer-frontend](https://github.com/gustavolno/rebuyer-frontend) | Marketplace de revenda de ingressos, com modo escuro e API REST | React, Vite, Tailwind |
 
----
+As automações que construí no trabalho são privadas por conter dados de clientes. Os estudos de caso estão no [portfólio](https://gustavolino.vercel.app/).
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gustavolno&label=Visualizações+do+Perfil&color=5e0b15&style=for-the-badge" alt="Contador de Visitantes" />
-</div>
+### Contato
+
+Fale comigo pelo [e-mail](mailto:gustavolinomil@gmail.com) ou pelo [portfólio](https://gustavolino.vercel.app/).
