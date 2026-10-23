@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Gustavo Lino, desenvolvedor full-stack e de automações, Distrito Federal">
+  <defs>
+    <radialGradient id="rubi" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#FF4D4D" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#FF4D4D" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vinho" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#8a1426" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#5e0b15" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fio" x1="0" x2="1">
+      <stop offset="0" stop-color="#FF4D4D" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#FF4D4D"/>
+      <stop offset="1" stop-color="#FF4D4D" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="borda" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#0A0101" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0A0101" stop-opacity=".9"/>
+    </linearGradient>
+    <clipPath id="quadro"><rect width="1200" height="260" rx="14"/></clipPath>
+  </defs>
+
+  <style>
+    text { font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+    .nome { font-size: 66px; font-weight: 700; letter-spacing: -1.5px; fill: #F4EDED; }
+    .papel { font-size: 20px; fill: #E0E0E0; letter-spacing: .4px; }
+    .frase { font-size: 18px; fill: #FF4D4D; font-weight: 600; opacity: 0; }
+    .frase.f1 { opacity: 1; }
+
+    .orbe { mix-blend-mode: screen; }
+    .a { animation: deriva-a 18s ease-in-out infinite alternate; }
+    .b { animation: deriva-b 22s ease-in-out infinite alternate; }
+    .c { animation: deriva-c 26s ease-in-out infinite alternate; }
+
+    .entra { animation: entra 1.4s cubic-bezier(.22,.8,.24,1) both; }
+    .entra.d1 { animation-delay: .25s; }
+    .fio { transform-box: fill-box; transform-origin: left center; animation: desenha 1.8s cubic-bezier(.22,.8,.24,1) .5s both, respira 6s ease-in-out 2.3s infinite; }
+    .ciclo { animation: ciclo 12s ease-in-out infinite; }
+    .f2 { animation-delay: 4s; }
+    .f3 { animation-delay: 8s; }
+
+    @keyframes deriva-a { from { transform: translate(0,0) scale(1); }    to { transform: translate(170px,30px) scale(1.25); } }
+    @keyframes deriva-b { from { transform: translate(0,0) scale(1.1); }  to { transform: translate(-190px,-20px) scale(.9); } }
+    @keyframes deriva-c { from { transform: translate(0,0) scale(.9); }   to { transform: translate(110px,-40px) scale(1.3); } }
+    @keyframes entra   { from { opacity: 0; transform: translateY(14px); filter: blur(6px); } to { opacity: 1; transform: none; filter: blur(0); } }
+    @keyframes desenha { from { transform: scaleX(0); opacity: 0; } to { transform: scaleX(1); opacity: 1; } }
+    @keyframes respira { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+    @keyframes ciclo   { 0% { opacity: 0; transform: translateY(8px); } 6%,28% { opacity: 1; transform: none; } 34%,100% { opacity: 0; transform: translateY(-8px); } }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+
+  <g clip-path="url(#quadro)">
+    <rect width="1200" height="260" fill="#0A0101"/>
+
+    <g class="orbe">
+      <circle class="a" cx="220" cy="60"  r="230" fill="url(#vinho)"/>
+      <circle class="b" cx="980" cy="210" r="250" fill="url(#vinho)"/>
+      <circle class="c" cx="520" cy="250" r="170" fill="url(#rubi)"/>
+    </g>
+    <rect width="1200" height="260" fill="url(#borda)"/>
+
+    <text class="nome entra" x="60" y="118">Gustavo Lino</text>
+    <rect class="fio" x="62" y="140" width="420" height="3" rx="1.5" fill="url(#fio)"/>
+    <text class="papel entra d1" x="62" y="180">Desenvolvedor full-stack e de automações · Distrito Federal</text>
+
+    <text class="frase f1 ciclo" x="62" y="218">Python e FastAPI no servidor</text>
+    <text class="frase f2 ciclo" x="62" y="218">React e JavaScript na interface</text>
+    <text class="frase f3 ciclo" x="62" y="218">Rotina manual vira sistema que roda sozinho</text>
+  </g>
+</svg>

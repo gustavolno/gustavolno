@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="28" viewBox="0 0 1000 28" aria-hidden="true">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#5e0b15" stop-opacity="0"/><stop offset=".5" stop-color="#8a1426"/><stop offset="1" stop-color="#5e0b15" stop-opacity="0"/></linearGradient>
+<linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#FF4D4D" stop-opacity="0"/><stop offset=".5" stop-color="#FF4D4D"/><stop offset="1" stop-color="#FF4D4D" stop-opacity="0"/></linearGradient></defs>
+<style>.s{animation:s 6s ease-in-out infinite}@keyframes s{0%{transform:translateX(-300px)}100%{transform:translateX(1000px)}}.r{animation:r 4s ease-in-out infinite}@keyframes r{0%,100%{opacity:.6}50%{opacity:1}}@media (prefers-reduced-motion: reduce){*{animation:none !important}}</style>
+<rect x="0" y="13" width="1000" height="2" fill="url(#l)"/>
+<rect class="s" x="0" y="13" width="300" height="2" fill="url(#b)"/>
+<path class="r" d="M500 6 L508 14 L500 22 L492 14 Z" fill="#FF4D4D"/>
+</svg>
